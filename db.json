@@ -1,0 +1,36 @@
+{
+	"users": [
+		{
+			"name": "Yagami Light",
+			"username": "Light",
+			"email": "Light@deathnote.com",
+			"phone": "9462448940",
+			"website": "Light.com",
+			"id": 8
+		},
+		{
+			"name": "tanjiro",
+			"username": "tanjiro",
+			"email": "tanjiro@demonslayer.com",
+			"phone": "8462384092",
+			"website": "tanjiro.com",
+			"id": 10
+		},
+		{
+			"name": "Eren Jaeger",
+			"username": "Eren ",
+			"email": "Eren@aot.com",
+			"phone": "7362485093",
+			"website": "Eren.com",
+			"id": 11
+		},
+		{
+			"name": "Yuann",
+			"username": "64yyr",
+			"email": "45@gmail.com",
+			"phone": "364654552",
+			"website": "",
+			"id": 13
+		}
+	]
+}
